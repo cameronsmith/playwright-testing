@@ -1,0 +1,26 @@
+{
+  "name": "playwright-testing",
+  "version": "1.0.0",
+  "description": "automated software testing with playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronsmith/playwright-testing.git"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "Cameron Alexander Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronsmith/playwright-testing/issues"
+  },
+  "homepage": "https://github.com/cameronsmith/playwright-testing#readme",
+  "dependencies": {
+    "@playwright/test": "^1.43.1",
+    "prettier": "^3.2.5"
+  }
+}

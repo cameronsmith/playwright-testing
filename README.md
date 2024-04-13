@@ -1,2 +1,8 @@
 # playwright-testing
-Testing repo for playwright
+automated software testing with playwrigh
+
+## Setup
+```
+npm install
+npx playwright install
+```
