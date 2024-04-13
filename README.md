@@ -6,3 +6,8 @@ automated software testing with playwrigh
 npm install
 npx playwright install
 ```
+
+## Running tests
+```
+npx playwright test
+```
